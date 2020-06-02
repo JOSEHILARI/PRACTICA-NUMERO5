@@ -1,0 +1,4 @@
+# PRACTICA-NUMERO5
+EN EL ARCHIVO ESTA TODO DESDE EL CODIGO, BD,IMAGENES DE FUNCIONAMIENTO
+
+aqui esta mi practica numero 5 de la materia emergentes2
